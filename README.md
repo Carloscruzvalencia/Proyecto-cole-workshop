@@ -21,7 +21,7 @@ lenguajes/frameworks usados
 | Proyecto terminado           |         ✔️      | 
 
 ## Vista previa del proyecto
-<img src="Project-preview.png" aling="center"></img>
+<img src="project-preview.png" aling="center"></img>
 
 ## Inspiracion del proyecto
 Recursos dados por el profesor de la assignatura
